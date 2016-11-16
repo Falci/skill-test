@@ -1,14 +1,14 @@
 # Node JS
 
-A simple _pure NodeJS_ api. This app creates some endpoint to handle (CRUD) notes.
+A simple _pure NodeJS_ api. This app creates some endpoints to handle (CRUD) notes.
 
-The content is store in files.
+The content is stored in files.
 
 This project has no 3rd-party dependencies.
 
 ## Notes
 * There is no pattern related to URLs. The _read_ method uses **query string**, while _delete_ uses **path params**. Reason: to have more examples.
-* Notes are encrypted and stored in `nod/notes` as files.
+* Notes are encrypted and stored in `node/notes` as files.
 
 ## Start the app
 
