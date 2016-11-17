@@ -1,3 +1,6 @@
 [submodule "js-assessment"]
 	path = js-assessment
-	url = https://github.com/rmurphey/js-assessment.git
+	url = git@github.com:Falci/js-assessment.git
+[submodule "es5"]
+	path = es5
+	url = git@github.com:Falci/js-assessment.git
